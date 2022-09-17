@@ -19,7 +19,7 @@ Prompts the user for a name of file or directory and reports if it is a regular 
 When a path is passed as an argument it gives a message "directory" if it is a directory, "regular file" if it is a regulat file and "a wrong path" if the path is wrong.
 
 Usage:
-Gets argument from standart output.
+Gets argument from standart input.
 
 Example:
 ./if_file.sh 
