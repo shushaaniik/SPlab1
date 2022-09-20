@@ -2,6 +2,7 @@
 
 echo "file path: "
 read file
+
 if [ -d $file ]
 then
  echo directory

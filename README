@@ -4,24 +4,14 @@ There are 4 scripts in this project.
 
 Prints all file names on given folder with subfolders.
 
-When a directory is passed as an argument it gives all file names on given folder with subfolders. In case the passed argument wasn't a directory or it wasn't passed at all it gives an error message.
-
 Usage:
-Argument is given with command line.
-
-Example:
 ./subfolder.sh <directory>
 
 2. if_file.sh
 
 Prompts the user for a name of file or directory and reports if it is a regular file, a directory.
 
-When a path is passed as an argument it gives a message "directory" if it is a directory, "regular file" if it is a regulat file and "a wrong path" if the path is wrong.
-
 Usage:
-Gets argument from standart input.
-
-Example:
 ./if_file.sh 
 file path:
 <file>
@@ -30,22 +20,12 @@ file path:
 
 Prints a number in reverse order.
 
-When a number is passed as an argument, it gives that number in reverse order. In case the argument is not a number or is not given at all it gives an error message.
-
 Usage:
-Argument is given with command line.
-
-Example:
 ./num_reverse.sh <number>
 
 4. lines_in_file.sh
 
 Counts lines in file given in argument.
 
-When a file is given as an argument, it gives the count of lines in the file. In case the argument is not passed, or is not a file, or doesn't exist at all it gives error messages.
-
 Usage:
-Argument is given with command line.
-
-Example:
 ./lines_in_file.sh <file>
