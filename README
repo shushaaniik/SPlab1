@@ -2,5 +2,5 @@ A dockerfile to preinstall "vim" and "build-essential".
 
 Usage:
 1) cd docker_project
-1) docker build -t installation:1.0 .
-2) docker run -it installation:1.0 /bin/bash
+2) docker build -t installation:1.0 .
+3) docker run -it installation:1.0 /bin/bash
