@@ -1,0 +1,31 @@
+There are 4 scripts in this project. 
+
+1. subfolder.sh
+
+Prints all file names on given folder with subfolders.
+
+Usage:
+./subfolder.sh <directory>
+
+2. if_file.sh
+
+Prompts the user for a name of file or directory and reports if it is a regular file, a directory.
+
+Usage:
+./if_file.sh 
+file path:
+<file>
+
+3. num_reverse.sh
+
+Prints a number in reverse order.
+
+Usage:
+./num_reverse.sh <number>
+
+4. lines_in_file.sh
+
+Counts lines in file given in argument.
+
+Usage:
+./lines_in_file.sh <file>
