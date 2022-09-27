@@ -21,4 +21,3 @@ fi
 
 lines_num=$(lines_in_file $1)
 echo $lines_num
-
