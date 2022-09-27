@@ -8,3 +8,5 @@ add_executable(hello
   source/main.cpp
   source/fun.cpp
 )
+
+set(EXECUTABLE_OUTPUT_PATH "${CMAKE_SOURCE_DIR}")

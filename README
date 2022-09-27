@@ -6,4 +6,4 @@ Usage:
 2) cmake -S . -B ./build
 3) cd build
 4) make
-5) ./hello
+5) ../hello
