@@ -2,6 +2,6 @@
 
 int main()
 {
-	fun();
-	return 0;
+    fun();
+    return 0;
 }

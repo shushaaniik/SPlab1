@@ -1,0 +1,8 @@
+A cmake file that builds and links two files.
+
+Usage:
+
+1) cmake -S . -B ./build
+2) cd build
+3) make
+4) ./hello

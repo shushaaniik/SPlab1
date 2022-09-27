@@ -1,5 +1,5 @@
 #include <iostream>
-#include "include/fun.h"
+#include "fun.h"
 
 void fun()
 {
