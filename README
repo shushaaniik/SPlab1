@@ -1,4 +1,16 @@
-There are 4 scripts in this project. 
+Docker Project
+
+A dockerfile to preinstall "vim" and "build-essential".
+
+Usage:
+1) cd docker_project
+2) docker build -t installation:1.0 .
+3) docker run -it installation:1.0 /bin/bash
+
+
+Scripts
+
+There are 4 scripts in the "scripts" directory. 
 
 1. subfolder.sh
 
@@ -29,3 +41,5 @@ Counts lines in file given in argument.
 
 Usage:
 ./lines_in_file.sh <file>
+
+

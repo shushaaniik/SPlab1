@@ -19,4 +19,3 @@ else
  echo "a wrong path"
  exit 1
 fi
-
