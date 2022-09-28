@@ -1,3 +1,16 @@
+Cmake Project
+
+A cmake file that builds and links two files.
+
+Usage:
+
+1) cd MakeProject
+2) cmake -S . -B ./build
+3) cd build
+4) make
+5) ../hello
+
+
 Docker Project
 
 A dockerfile to preinstall "vim" and "build-essential".
@@ -41,5 +54,3 @@ Counts lines in file given in argument.
 
 Usage:
 ./lines_in_file.sh <file>
-
-
