@@ -54,6 +54,3 @@ Counts lines in file given in argument.
 
 Usage:
 ./lines_in_file.sh <file>
-
-
->>>>>>> develop
